@@ -1,6 +1,6 @@
 <div align = "center">
 
-##  Hey, <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px"> I'm Joshua Miguel! </h2>
+##  Hey, <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px"> I'm JoshCodes! </h2>
 
 <br />
 </div>
