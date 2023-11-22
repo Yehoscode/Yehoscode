@@ -9,7 +9,7 @@
 
 **About me!!**
 <p align="left"> 
-  🤓 I am currently studying Front-End Development.</strong>.
+  🤓 I am currently studying user interface.</strong>.
 </p>
 
 <p align="left"> 
